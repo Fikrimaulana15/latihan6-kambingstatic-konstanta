@@ -1,0 +1,1 @@
+# latihan6-kambingstatic-konstanta
